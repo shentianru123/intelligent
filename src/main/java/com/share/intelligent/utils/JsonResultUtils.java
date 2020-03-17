@@ -1,6 +1,8 @@
 package com.share.intelligent.utils;
 
 public class JsonResultUtils   {
+    public static final String MSG_FAILED="FAILED";
+    public static final String MSG_SUCCESS="SUCCESS";
 
     /**
      *  ERROR 错误

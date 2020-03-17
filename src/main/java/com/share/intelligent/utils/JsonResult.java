@@ -78,5 +78,5 @@ public  class JsonResult<T> {
     }
 
     private static final String MSG_SUCCESS="SUCCESS";
-    private static final String MSG_FAILED="FAILED";
+
 }
